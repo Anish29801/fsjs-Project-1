@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Orbitron:wght@500&family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Orbitron:wght@500&family=Poppins:wght@500&display=swap');
+.logo1{
+    position: relative;
+}
+li{
+          display:flex;
+          float: left;
+          list-style: none;
+          left: 400px;
+      }
+    .list-item{
+        font-family: "Orbitron";
+        font-weight:800px;
+        font-size:30px;
+        margin:20px;
+        position: relative;
+        left: 400px;
+        top: -90px;
+        
+      }
+      .search-icon{
+        margin-left: 900px;
+        margin-top: -15px;
+      }
+      .globe
+      {
+          position: relative;
+          left: 350px;
+          top: -300px;
+      }
+      .hero1{
+        position:relative;
+        top:-400px;
+        left: 20px;
+    }
+    .square{
+        position:relative;
+        top:360px;
+        left:230px;
+    }
+
+    .star{
+        position: relative;
+          left: 1200px;
+          top:  -250px;
+        }
+        .star1{
+        position:relative;
+        top:320px;
+        left:230px;
+        }
+        .hero-heading{
+        position:relative;
+        top:-900px;
+        left: 800px;
+        font-size: 80px;
+        font-family: "Orbitron";
+        }
+        .hero-description{
+            position:relative;
+            top:-900px;
+            left: 800px;
+            font-size: 22px;
+            font-family: "Orbitron";
+            }
+            .button-join{
+            position:relative;
+            left:870px;
+            top: -900px;
+            background-color:black;
+            color: white;
+            border-radius:8px;
+            font-family: "Orbitron";
+            font-size: 25px;
+
+            }
+            .button-email{
+                position:relative;
+                left:850px;
+                top: -900px;
+                border-radius:8px;
+                font-family: "Orbitron";
+                font-size: 25px;
+            }
+            .icons{
+                 position:relative;
+                top:-750px;
+                right:-920px;
+                }
+                .contact-heading{
+                    position:relative;
+                    top:-750px;
+                    right:-950px;
+                    font-size: larger;
+                    font-family:"Poppins";
+                    color:#758283;
+                }
+                .nav-button{    
+                position:relative;
+                border-radius:1.5rem;
+                font-family: "Poppins";
+                font-size: 32px;
+                left: 900px;
+                top: -100px;
+                padding: 12px 75px;
+            }
+            .search-icon{
+                top: -170px;
+                left:1150px;
+            }

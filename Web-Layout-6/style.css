@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Orbitron:wght@500&family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Orbitron:wght@500&family=Poppins:wght@500&display=swap');
+
+body{
+    font-family:"Allerta";
+    background-color: #f4f3f8;
+    overflow-x: hidden;
+}
+#navFirst{
+  position: relative;
+  top:20px;
+  left: 20px;
+}
+#navMid{
+  display: flex;
+}
+#mid{
+  position: relative;
+  top:-40px;
+  padding-left: 30px;
+  left: 300px;
+}
+#Img{
+  position: relative;
+ top: -300px;
+ left: 1100px;
+ float: left;
+ margin: 20px;
+}
+#NavMid{
+  float: left;
+}
+ #NavEnd{
+  float: left;
+  left: 1000px;
+ }
+#monstera{
+  font-size: 125px;
+  margin:0;
+  padding:0;
+  position: relative;
+  left: -150px;
+  font-weight: 2000;
+}
+.mid{
+  display: inline;
+  float:right;
+
+}
+.desc{
+  font-size: 20px;
+}
+.discover{
+  background-color:#466d50;
+  width: 370px;
+  height: 120px;
+  padding-top:20px;
+  padding-left: 15px;
+  border-radius:100px;
+  font-size: 70px;
+  color: #FFFFFF;
+  font-weight: 50;
+}
+#imgMain{
+  position: relative;
+  top: -1200px;
+  left: 800px;
+}
+#feed{
+  position: relative;
+  top: 40px;
+}
+#light{
+    position: relative;
+    top: -170px;
+    left: 350px;
+}
+#care{
+  position: relative;
+  top: -350px;
+  left: 600px;
+}
+.head1{
+  position: relative;
+  top:-80px;
+  left: 100px;
+}
+.head2{
+  position: relative;
+  top:-260px;
+  left: 400px;
+}
+.head3{
+  position: relative;
+  top:-430px;
+  left: 670px;
+}
+.text1,.text2,.text3{
+  font-family: "Abel";
+}
+.text1{
+  position: relative;
+  top:-80px;
+  left: 100px;
+}
+.text2{
+  position: relative;
+  top:-260px;
+  left:400px
+}
+.text3{
+  position: relative;
+  top:-427px;
+  left:640px;
+}

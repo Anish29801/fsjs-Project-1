@@ -1,0 +1,353 @@
+*{
+    position: relative;
+    background-color: #111111;
+    color:#fbfbfb;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+
+}
+.Navbar,.Navbar1{
+    display:flex;
+    left: 500px;
+    font-weight: 700;
+}
+.Navbar1{
+    top: -1050px;
+    left: 370px;
+}
+.lower_nav{
+    color:#fbfbfb;
+    padding-left: 25px;
+    font-weight: 200;
+}
+select{
+    border-color: #111111;
+    font-size: 18px;
+    font-weight: 700;
+}
+.heroimg{
+    width: 600px;
+    top:-20px;
+}
+.tittle{
+    top:-520px;
+    left:450px;
+    color: #c91b28;
+    font-size: 30px;
+}
+.col1{
+    color: #fbfbfb;
+    top:-580px;
+    font-size: 100px;
+}
+.main_content1{
+    top:-600px;
+    left:500px;
+}
+.about_me{
+    background-color: #c91b28;
+    border-color: #c91b28;
+    color:#fbfbfb;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 30px;
+    font-weight: 600;
+    top:-580px;
+    left:545px;
+    font-family: "Roboto";
+}
+.homepart{
+    display: flex;
+    top:-500px;
+    left:160px;
+}
+.card2,.card3,.card1{
+    padding-left:20px;
+    margin-left: 20px;
+}
+.header1,.header2,.header3{
+    font-size: 20px;
+}
+.text1,.text2{
+    font-size: 12px;
+    width: 250px;
+    height: 110px;
+}
+.header1{
+    height: 40px;
+}
+.link1,.link2{
+    text-decoration: none;
+    cursor: pointer;
+}
+.link1{
+    color: #c91b28;
+}
+.card2,.text2,.header2,.link2{
+    background-color: #c91b28;
+}
+.card1,.text1,.header1,.header3.card3,.link1{
+    background-color: #1e1e1e;
+}
+.link3{
+    background-color: #1e1e1e;
+    color: #c91b28;
+    margin-top: 0rem;
+    padding-top:-20px;
+}
+.twelve{
+    top: 300px;
+    left:-800px;
+    font-size: 85px;
+    color: #c91b28;
+}
+.expirence{
+    top: 240px;
+    left:-840px;
+}
+.header4,.text4,.card4,.card5,.header5,.text5{ 
+    background-color: #1e1e1e;
+
+}
+.card4,.card5{
+    width: 300px;
+    height: 110px;
+}
+.header4,.header5{
+    color:#c91b28;
+    font-size: 32px;
+    padding-left:20px;
+    width: 10px;
+}
+.text4{
+    font-size: 20px;
+    padding-left: 12px;
+    top: -20px;
+}
+.text5{
+    padding-left: 12px;
+    top:-20px;
+    font-size: 22px;
+}
+
+.side_items1{
+    display:flex;
+}
+.card4{
+    left: 400px;
+    top:-420px;
+    height: 90px;
+
+}
+.card5{
+    top:-420px;
+    font-size: 20px;
+    left: 430px;
+}
+.header6,.text6,.card6,.card7,.header7,.text7{ 
+    background-color: #1e1e1e;
+
+}
+.card6,.card7{
+    width: 300px;
+    height: 110px;
+}
+.header6,.header7{
+    color:#c91b28;
+    font-size: 32px;
+    padding-left:20px;
+    width: 10px;
+}
+.text6{
+    font-size: 20px;
+    padding-left: 12px;
+    top: -20px;
+}
+.text7{
+    padding-left: 12px;
+    top:-20px;
+    font-size: 22px;
+}
+
+.side_items2{
+    display:flex;
+}
+.card6{
+    left: 400px;
+    top:-400px;
+    height: 90px;
+
+}
+.card7{
+    top:-400px;
+    font-size: 20px;
+    left: 430px;
+}
+.featured_projects{
+    top:-350px;
+    left: 30px;
+ }
+ .featured_line{
+    top:-360px;
+    left: 30px;
+    font-size: 15px;
+    font-weight: 100;
+ }
+.size{
+    font-size: 18px;
+    font-weight: 100;
+    left: 840px;
+    top: -430px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.img1{
+    width: 400px;
+    padding-left: 20px;
+    background-color: #1e1e1e;
+    padding-top: 40px;
+    
+}
+
+
+.Project1,.Project2{
+    background-color: #1e1e1e;
+    width: 440px;
+    height: 330px;
+    padding-left: 20px;
+}
+.Project1{
+    top: -350px;
+    left: 60px;
+}
+.Project2{
+    top:-780px;
+    left: 650px;
+
+}
+.Know{
+    color: #a73131;
+    font-size: 18px;
+    top: -360px;
+    left: 60px;
+}
+.Know1{
+    color: #a73131;
+    font-size: 18px;
+    top: -790px;
+    left: 670px;
+}
+.knowpos{
+    top: -1190px;
+    left: 670px;
+}
+.ventage{
+    font-size: 20px;
+    top: -350px;
+    left: 60px;
+}
+.Foodasa{
+    font-size: 20px;
+    top: -780px;
+    left: 670px;
+}
+.Foodasa1{
+    font-size: 20px;
+    top: -1180px;
+    left: 670px;
+}
+.Pic_pos{
+    top: -1200px;
+    left: 630px;
+}
+.pic3{
+    top: -425px;
+}
+.lower_Part1{
+    top:-1150px;
+    padding-left: 50px;
+    background-color:#1e1e1e;
+    width: 1080px;
+}
+.contact{
+    top: -90px;
+}
+.Work,.lower_Part1_line{
+    background-color:#1e1e1e;
+
+}
+.Work{
+    font-size: 40px;
+}
+.lower_Part1_line{
+    font-weight:50;
+    font-size: 15px;
+}
+
+.icons{
+    top: -1000px;
+    background-color: #1e1e1e;
+    width: 1335px;
+}
+.logo{
+    width: 180px;
+}
+.social{
+    width: 300px;
+    left: 300px;
+}
+
+@media screen and (max-width:720px) {
+    .Navbar{
+        left: 100px;
+    }
+    .heroimg{
+        width: 700px;
+        left: -100px;
+    }
+    .tittle{
+        left: 500px;
+
+    }
+    .main_content1,.lower_Part1_line{
+        display: none;
+    }
+    .about_me{
+        font-size: 60px;
+    }
+    .size{
+        left:600px;
+    }
+    .Foodasa1,.ventage,.Foodasa{
+        font-size: 45px;
+    }
+    .Know,.Know1{
+        font-size: 30px;
+    }
+    .pic2{
+        top:-82px;
+    }
+    .pic4{
+        top:-80px
+    }
+    .twelve{
+        left: -850px;
+        font-size: 120px;
+        top:400px
+    }
+    .expirence{
+        top: 320px;
+        left: -840px;
+        font-size: 30px;
+
+    }
+    .text1,.text2{
+        font-size: 20px;
+    }
+    .link1,.link2{
+        top:130px;
+        font-size: 18px;
+    }
+    
+}

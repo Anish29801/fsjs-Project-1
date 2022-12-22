@@ -1,0 +1,302 @@
+*{
+    position: relative;
+    font-family: "Poppins";
+}
+li{
+    list-style:none;
+}
+button:hover.size1:hover{
+    cursor: pointer;
+}
+.home_top{
+    margin: 0px;
+    background-color: #636c79;
+    padding: 0px;
+    top: -10px;
+    left: -10px;
+    width: 1345px;
+    height: 740px;
+}
+.logo{
+    left: 30px;
+    top: 15px;
+}
+nav{
+    display:flex;
+}
+.items{
+    left: 400px;
+    padding-left: 30px;
+    color: #e0e2e5;
+    font-weight: 300;
+    font-size: 18px;
+    top:-50px;
+}
+.ham{
+    display: none;
+}
+.Lets{
+    background-color:#636c79;
+    border-color: #d9d9d9;
+    color:#ffffff;
+    font-weight: 500;
+    padding-left:60px;
+    padding-right: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    top:-100px;
+    left: 1050px;
+    font-size: 20px;
+}
+.photo1{
+    width: 500px;
+    height: 410px;
+    left: 100px;
+}
+.header1{
+    font-size: 45px;
+    color:#FFFFFF;
+}
+.text1{
+    color:#c9ccd1;
+
+}
+.header1,.text1{
+    top: -390px;
+    left: 730px;
+}
+.mail{
+    width: 60px;
+    left: -770px;
+    top: 30px;
+}
+.Talk{
+    font-size: 25px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #FFFF;
+    background-color: #648374;
+    border-color: #648374;
+    border-radius: 4px;
+    left: -205px;
+}
+.text2{
+    font-size: 20px;
+    padding-left: 80px;
+    padding-right: 250px;
+    padding-bottom:25px;
+    padding-top: 25px;
+}
+.Lets_Talk{
+    left: 700px;
+    top: -380px;
+}
+.header1p1,.header1p2{
+    font-weight: 600;
+    left: 500px;
+    font-size: 35px;
+}
+.header1p2{
+    top: -24px;
+    left: 580px;
+}
+.nav_1{
+    display: flex;
+    left: 100px;
+    
+}
+.tittle{
+    font-size: 40px;
+    left: 25px;
+}
+.sub{
+    font-size: 18px;
+    color:#636c79;
+    font-weight: 400;
+    top:-35px;
+    left: 10px;
+}
+.pos{
+    padding-left: 80px;
+}
+.image1{
+    width: 950px;
+    left: 100px;
+}
+.text_box3{
+    top: 50px;
+    left:-40px;
+
+}
+.header1p3{
+    left:550px;
+    font-weight: 600;
+    top: -30px;
+}
+.layout1{
+    top: 50px;
+    left:120px;
+}
+.tittle1{
+    font-size: 32px;
+    top:30px;
+    
+}
+.image2{
+    width: 350px;
+    height: 300px;
+    left: 700px;
+}
+.size1{
+    font-size: 18px;
+    font-weight: 700;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #FFFF;
+    background-color: #8bb7a2;
+    border-color: #8bb7a2;
+    border-radius: 4px;
+    top:60px;
+}
+.content1{
+    top: -300px;
+}
+.sub1{
+    line-height: 2.0;
+    top:30px;
+    color: #6b6c6e;
+}
+.image3{
+    width: 300px;
+    left: 80px;
+}
+.layout2{
+    top:-40px;
+    left: 40px;
+}
+.layout3{
+    top: -240px;
+    left: 70px;
+}
+.pos1{
+    left: 600px;
+    top: -480px;
+}
+.team{
+    display: flex;
+    left:100px;
+    top:-360px;
+}
+.team_para{
+    left: 240px;
+    top:20px;
+    font-size: 16px;
+}
+.mate{
+    width: 300px;
+}
+.teammates{
+    top:-240px;
+    display: flex;
+    left: 20px;
+}
+.team_des{
+    left: 2px;
+    padding-left: 10px;
+}
+.team_name{
+    font-weight: 600;
+}
+.pos2{
+    top:-180px;
+    left: 500px;
+}
+.lower_part{
+    background-color: #10181d;
+    width: 1370px;
+    height: 525px;
+    color: #FFFFFF;
+    margin: 0px;
+    left: -10px;
+}
+.logo1{
+    left: 30px;
+    top:50px;
+}
+.icon{
+    top:50px;
+    left: 840px;
+    cursor: pointer;
+}
+hr{
+    border-top: 25px #6b6c6e;
+    
+}
+.Lists{
+    display: flex;
+    top: 50px;
+    left: 10px;
+    
+}
+.List{
+    left: 50px;
+}
+.item_list_1{
+    padding-bottom: 16px;
+    color: #50565a;
+    font-size: 16px;
+    padding-left: 28px;
+}
+.item_list_1:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.col{
+    font-weight: 550;
+    font-size: 23px;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width:720px) {
+    .items{
+        display: none;
+    }
+    .logo{
+        left: 600px;
+        width: 250px;
+    }
+    .ham{
+        display: block;
+        color: white;
+        font-size: 40px;
+        left: 30px;
+        cursor: pointer;
+    }
+    .Lets{
+        top: -30px;
+        font-size: 30px;
+    }
+    .text1,.Lets_Talk{
+        display: none;
+    }
+
+    .sub1,.team_para,.team_des{
+        display: none;
+    }
+    .image2{
+        width: 500px;
+    }
+    .team1{
+        padding: 20px;
+    }
+    .logo1{
+        left:200px
+    }
+    .icon{
+        left:395px;
+    }
+}

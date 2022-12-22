@@ -1,0 +1,64 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Orbitron:wght@500&family=Poppins:wght@500&family=Red+Rose:wght@600&display=swap');
+
+
+*{
+  box-sizing: border-box;
+  font-family: "Red Rose", cursive;
+  position: relative; 
+}
+body{
+  background-color:#333749;
+  background-image: url('./Bac.png');
+  background-repeat: no-repeat;
+
+
+}
+li{
+  display:flex;
+  float: left;
+  list-style: none;
+  left: 400px;
+}
+.list-item{
+  font-weight:400px;
+  margin:20px;
+  left: 1200px;
+  font-size:20px;
+  font-family:"Red Rose";
+  color:#F7CD2E;
+  top: -70px;
+  left: 400px;
+}
+button{
+  background-color: #EF5354;
+  color:#ffffff;
+  border-color:#EF5354;
+}
+.button-large{
+  font-size: 20px;
+  padding:25px;
+  top:-70px;
+  left:400px;
+}
+.button-small{
+    font-size: 20px;
+    padding-right:25px;
+    padding-left:25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    left: 600px;
+    top: -70px;
+}
+.hero-heading{
+  font-family:"Red Rose";
+  font-size: 110px;
+  color:#F7CD2E;
+  font-weight: 1600;
+  left: 20px;
+}
+.Img{
+  position: relative;
+  left: 1000px;
+  top:-55px;
+}

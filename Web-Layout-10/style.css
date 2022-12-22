@@ -1,0 +1,139 @@
+*{
+    position: relative;
+    margin: 0;
+    padding:0;
+    font-family: 'Inter', sans-serif;
+}
+.ham{
+    display: none;
+}
+body{
+    background-repeat: repeat;
+     background-color:#0b6589;
+     background-image: url("https://www.mymove.com/wp-content/uploads/2022/07/mm-things-you-should-know-about-becoming-an-interior-designer-hero.jpg");
+     color: #fcfbfc;
+    overflow-x: hidden;
+     height: 80px;
+}
+.logo{
+    top:20px;
+    left: 40px;
+    font-weight: 800;
+    
+}
+.items{
+    display: flex;
+    list-style: none;
+}
+.item{
+    padding: 15px;
+    top:-50px;
+    left: 300px;
+    padding: 20px;
+    font-size: 23px;
+    font-weight: 600;
+}
+.pos{
+    left:1100px;
+    top:-100px;
+}
+.hero{
+    font-size: 60px;
+    font-weight: 800;
+    left:80px;
+}
+.size{
+    width: 20px;
+}
+.item:hover,.cont:hover{
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+.detail1,.detail2{
+    font-size: 20px;
+    background-color:#fff;
+    border-color: #1111;
+    border-radius: 40px;
+    box-shadow: 4px 4px #888888;
+}
+.detail1{
+    left: 800px;
+    top: -100px;
+    width: 380px;
+    height: 250px;
+    padding-left: 40px;
+}
+.detail2{
+    width: 380px;
+    height: 250px;
+    left:70px;
+    top:-220px;
+    padding-left: 50px;
+}
+.head1,.head2{
+    padding-top: 50px;
+    font-weight: 600;
+    color: #000;
+}
+.learn_more{
+    border-color:#0000;
+    margin-top: 120px;
+    font-size: 40px;
+    font-weight: 900;
+    border-radius: 35px;
+    left:80px;
+    top: -50px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.s1{
+    width:120px;
+    left:130px;
+    top: 20px;
+}
+.s2{
+    width:100px;
+    left:40px;
+    top: 20px;
+}
+.detail1:hover,.detail2:hover{
+    cursor:pointer;
+    box-shadow: 7px 7px #888888;
+}
+.learn_more:hover{
+    cursor:pointer;
+    opacity: 0.85;
+    box-shadow: 10px 10px #888888;
+}
+.cont:hover{
+    cursor:pointer;
+    font-size: 50px;
+    padding: 20px;
+    box-shadow: 5px 5px #888888;
+
+}
+
+@media screen and (max-width:720px) {
+    .item{
+        display: none;
+    }
+    .ham{
+        display: inline;
+        font-size: 40px;
+        top:20px;
+        left: 40px;
+        cursor: pointer;
+    }
+    .pos{
+        left: 400px;
+        font-size: 20px;
+    }
+    .detail1{
+        display: none;
+    }
+    .detail2{
+        top: 0px;
+    }}
