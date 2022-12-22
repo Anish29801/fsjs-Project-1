@@ -4,5 +4,4 @@
   ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   
-### These Projects taught me everyrthing regardng HTML and CSS. It was taught to me in a very pratical way 
-### how to overcome problems while coding HTML and CSS.
+### These Projects taught me everyrthing regardng HTML and CSS. It was taught to me in a very pratical way  how to overcome problems while coding HTML and CSS.
